@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
 
-    cout << "master" << endl;
+    cout << "Hi, master!" << endl;
 
 
     return 0;
