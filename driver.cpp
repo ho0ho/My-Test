@@ -13,7 +13,7 @@ int main() {
     cout << "Thank you!" << endl;
 
     cout << "-- 3experience" << endl;
-    cout << "-- 3experience" << endl;
+    cout << "-- Wow" << endl;
 
 
     return 0;
