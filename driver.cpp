@@ -15,6 +15,8 @@ int main() {
     cout << "-- 3experience" << endl;
     cout << "-- Wow" << endl;
 
+    char c = 'c';
+
 
     return 0;
 }
