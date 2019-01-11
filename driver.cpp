@@ -9,6 +9,9 @@ int main() {
 
     cout << "Hi, master!" << endl;
 
+    cout << "Please readme.txt" << endl;
+    cout << "Thank you!" << endl;
+
 
     return 0;
 }
