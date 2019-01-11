@@ -62,8 +62,21 @@ namespace pfaPARK {
             return *this;
         }
 
+        if (capacity != rightSide.capacity) {
+            capacity = rightSide.capacity;
+            delete [] a;
+            a = new T[capacity];
+        }
 
+        used = rightSide.used;
+        for (int i = 0; i < used; i++) {
+            a[i] = rightSide.a[i];
+        }
     }
 
+    template <class T>
+    PFArray<T>::~PFArray() {
+        delete [] a;
+    }
 
 } // pfaPARK
