@@ -21,5 +21,6 @@ int main() {
     cout << "remote" << endl;
     cout << "remote" << endl;
 
+    cout << "write by h0ho" << endl;
     return 0;
 }
