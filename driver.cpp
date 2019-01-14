@@ -19,6 +19,7 @@ int main() {
     char c = 'c';
 
     cout << "remote" << endl;
+    cout << "remote" << endl;
 
     return 0;
 }
