@@ -25,5 +25,6 @@ int main() {
     cout << "write by park_remote" << endl;
 
     cout << "conflict by master" << endl;
+
     return 0;
 }
