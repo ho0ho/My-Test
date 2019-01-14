@@ -23,5 +23,8 @@ int main() {
 
     cout << "write by h0ho" << endl;
     cout << "write by park_remote" << endl;
+
+    cout << "conflict2" << endl;
+
     return 0;
 }
